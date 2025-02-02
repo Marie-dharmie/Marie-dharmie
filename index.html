@@ -3,21 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flee</title>
+    <title>flee</title>
     <link rel="stylesheet" href="./style.css">
-    <script src="./thefront.js"></script>
+
+    <style>
+     for the mute button
+      #muteButton {
+          position: absolute;
+          top: 10px;
+          right: 10px;
+          padding: 10px 20px;
+          background-color: #555;
+          color: white;
+          font-size: 16px;
+          border: none;
+          cursor: pointer;
+      }
+
+      #muteButton:hover {
+          background-color: #888;
+      }
+    </style>
+
 </head>
 <body>
-
-    <h1>Welcome to Flee</h1>
+   <h1>Welcome to Level 1&#129332; &#128120;! </h1>
+   <button id="muteButton">Mute</button>
     
-<div id="content">
-    <label for="nameinput">O Ye Soldier, What is thy Name?</label>
-    <input id = "nameinput" type="text"></input>
-    <button id = "Start">Start the Journey!</button>
 
-</div>
+     <!--<canvas> is an html element that can be used to draw graphics via scripting
+    
+   I added a canvas, to be the game interface -->
+   <canvas></canvas>
 
-   
+   <script src="./script.js"></script>
 </body>
 </html>
