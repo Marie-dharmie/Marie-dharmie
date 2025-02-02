@@ -1,0 +1,41 @@
+h1{
+    color:  rgb(158, 192, 196)
+}
+
+body{
+    
+    text-align: center;
+    background: url("../images/mr\ brains.jpg");
+ 
+}
+input {
+font-size: large;
+
+}
+
+ div{
+    text-align: left;
+    font-size:x-large;
+    color:rgb(196, 196, 81);
+    font-style: italic;
+    font-weight: bold;
+    margin-inline-start: 1.7cm;
+    
+
+}
+
+
+    button{
+        display: block;
+        font-weight: bolder; 
+         margin-top:25px;
+         margin-inline-start: 7cm;
+         font-size: large;
+         border-radius:50px;
+         
+    }
+
+    ul{
+        color: rgb(82, 189, 197);
+    }
+  
