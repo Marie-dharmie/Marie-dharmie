@@ -27,6 +27,7 @@ Challenges:
 Putting all my ideas to reality: i had a wide imagination for this and because i was unable to do them, i had to start small and that was tough because i had so  many conflicting ideas.
 Bug Fixes: My codes at some point wernt working because i made some mistakes but it was fun after i fixed all the bugs.
 So much youtube videos: i watched so many youtube videos and at some point it conflicted me and chat gpt even damaged my code more but all of these challanges made the experience funny eachtime i think about it.
+Arranging my codes in different folders, and now i hav all my codes in the same file and each time i tried to to arrange it in different folders it scattered my game and developed bugs.
 
 
 Lessons Learned:
@@ -34,6 +35,7 @@ Always seek for help from the tutors and teachers
 Ensure to always have a json structure so as to know what your game is meant to be and look like before proceeding to make anything.
 You can do anything if you set your mind, heart and resilliance towards it, also pray about everything because chatgpt can mess up your code and youtube can contradict somethings you have already in your code but God would not. lol
 Keep it Simple: Focusing on one unique mechanic instead of multiple features made the game more polished.
+
 <!---
 Marie-dharmie/Marie-dharmie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
