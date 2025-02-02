@@ -1,1 +1,11 @@
+Day 1: We all assembled with our tutors and we were ta, then we were shared to our various rooms.... then we had the session with our teachers and we had to pitch our game ideas.. i pitched my game idea and it was way too big now that i actually think about it. Thankfully the teacher was there to help and then he told me to do a simple  jump and run and see how i can implement that first and then from there, we can see what else can be added and implemented based on my idea.
+Day2: i eventually came up with a jump and run idea where there is an endless run for the player, everything was going well untill i decided to use chatgpt and write all it said without understanding what it meant. The Game got Spoilt, Crashed, Destroyed!!! anything you can bad about that happened to the game on this day!!!! i was just about to cry in the empty room around 8pm while looking at my overused chatgpt destroyed game that was doing the complete opposite of what a game should do.... Then one of the teachers walked in and asked me about my codes... Perfect Timing... i was unable to answer most of the questions he asked and that made me realise so much needed to be done, learnt nd corrected. i am grateful for that session.
+Day3: Deteremined to not give up, i started to watch some youtube videos to relearn so many things, had another sesssion with the same teacher because he said to rethink my game idea and read up on collisions, i showed him and once gain he advised and helped in motivation too.
+Day4: Then officially i started , first i added my background for the static game, then  first created my player using direct on the canvas, gave it a pink color, and added gravity to it, so that it lands on the button of the camvas and does not go below the canvas. i then procedded to draw the platforms and the boxes that would become the obstacles... this gave me a view and a clear concept of what i was going to be making. i was happy that i was learning and it was falling in place.
+Day5: At day 5, it was already coming togther and i decided to replace my box with the image png for the boxes that i made with 3d and then rendered it as a 2d picture, and did the same with the platforms 
 
+
+
+
+
+i implemented the falling boxes
